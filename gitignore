@@ -3,3 +3,4 @@
 
 # Figaro gem
 config/application.yml
+.env*
